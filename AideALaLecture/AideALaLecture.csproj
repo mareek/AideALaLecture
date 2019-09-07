@@ -120,10 +120,15 @@
     <None Include="AideALaLecture_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\IronMan.jpg" />
+    <Content Include="Assets\jjj.jpg" />
     <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\LordBusiness.jpg" />
     <Content Include="Assets\SmallLogo.scale-100.png" />
     <Content Include="Assets\SplashScreen.scale-100.png" />
     <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\Superman.jpg" />
+    <Content Include="Assets\TanteMay.jpg" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
